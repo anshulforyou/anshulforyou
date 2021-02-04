@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshulforyou)](https://github.com/anshulforyou/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=anshulforyou&label=PROFILE+VIEWS&color=blue&style=plastic)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshulforyou&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
