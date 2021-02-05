@@ -1,4 +1,4 @@
-### Hi there, I'm Anshul Yadav 👋
+### Hi there, I'm Anshul 👋
 <!--
 ![](https://komarev.com/ghpvc/?username=anshulforyou&label=PROFILE+VIEWS&color=blue&style=plastic)
 <img alt="GIF" src="https://media.giphy.com/media/AYMKkDwavwA9Y72Frn/giphy.gif"/>
