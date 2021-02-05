@@ -9,6 +9,7 @@
 
 ![Anshul's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulforyou&layout=compact&show_icons=true)
 
+
 <!--START_SECTION:waka-->
 
 Python       50 mins         ████████████████░░░░░░░░░   63.61 % <br>
@@ -17,6 +18,7 @@ JavaScript   5 mins          ██░░░░░░░░░░░░░░░
 CSS          4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
 
 <!--END_SECTION:waka-->
+
 
 <div style="display:flex; align-items:center; justify-content: center;">
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -36,6 +38,9 @@ CSS          4 mins          █▒░░░░░░░░░░░░░░░
 <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
