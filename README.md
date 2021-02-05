@@ -1,10 +1,14 @@
 ### Hi there, I'm Anshul 👋
 <!--
-![](https://komarev.com/ghpvc/?username=anshulforyou&label=PROFILE+VIEWS&color=blue&style=plastic)
 <img alt="GIF" src="https://media.giphy.com/media/AYMKkDwavwA9Y72Frn/giphy.gif"/>
+![Anshul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anshulforyou&show_icons=true)
 -->
+![](https://komarev.com/ghpvc/?username=anshulforyou&label=PROFILE+VIEWS&color=blue&style=plastic)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshulforyou&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+![Anshul's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulforyou&layout=compact&show_icons=true)
+
 <!--START_SECTION:waka-->
 
 Python       50 mins         ████████████████░░░░░░░░░   63.61 % 
