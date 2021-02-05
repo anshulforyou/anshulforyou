@@ -6,12 +6,12 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshulforyou&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--START_SECTION:waka-->
-```text
+
 Python       50 mins         ████████████████░░░░░░░░░   63.61 % 
 HTML         18 mins         ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
 JavaScript   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
 CSS          4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-```
+
 <!--END_SECTION:waka-->
 
 <!--
