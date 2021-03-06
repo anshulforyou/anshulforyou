@@ -46,7 +46,6 @@ CSS          16 mins         ▒░░░░░░░░░░░░░░░░
 - 🔭 I’m currently working on Memboro
 - 🌱 I’m currently learning graph based database
 - 💬 Ask me about django
-- 📫 How to reach me: <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
 - 😄 Pronouns: Anjaan
 
 <!--
