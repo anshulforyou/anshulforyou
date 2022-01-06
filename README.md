@@ -12,9 +12,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python       40 mins         ████████████████████▓░░░░   82.33 % 
-Markdown     6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Solidity     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Python       27 mins         ██████████████████████░░░   88.19 % 
+Markdown     3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
 ```
 <!--END_SECTION:waka-->
 
