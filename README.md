@@ -12,7 +12,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python     13 hrs 37 mins  █████████████████████████   99.97 % 
+Python       11 hrs 29 mins  ████████████████████████▓   98.93 % 
+HTML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 ```
 <!--END_SECTION:waka-->
 
