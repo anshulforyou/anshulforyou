@@ -12,6 +12,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Total: 10 hrs 54 mins
+
 JavaScript   4 hrs 57 mins   ███████████▒░░░░░░░░░░░░░   45.37 % 
 Solidity     2 hrs 45 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.24 % 
 Python       2 hrs 20 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.44 % 
