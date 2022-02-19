@@ -12,13 +12,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 12 hrs 11 mins
+Total: 9 hrs 58 mins
 
-JavaScript   5 hrs 7 mins    ██████████▒░░░░░░░░░░░░░░   41.92 % 
-Python       3 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   28.02 % 
-Solidity     2 hrs 45 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.59 % 
-Bash         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-Markdown     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+JavaScript   4 hrs 16 mins   ██████████▓░░░░░░░░░░░░░░   42.86 % 
+Python       4 hrs 12 mins   ██████████▓░░░░░░░░░░░░░░   42.16 % 
+Solidity     1 hr 3 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Markdown     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 ```
 <!--END_SECTION:waka-->
 
