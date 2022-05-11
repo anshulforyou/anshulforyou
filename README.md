@@ -13,8 +13,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     0 secs          █████████████████▒░░░░░░░   69.32 %
-Other        0 secs          ██████▒░░░░░░░░░░░░░░░░░░   25.43 %
+Markdown     0 secs          █████████████▒░░░░░░░░░░░   53.08 %
+Other        0 secs          ██████████▓░░░░░░░░░░░░░░   42.90 %
 ```
 
 <!--END_SECTION:waka-->
