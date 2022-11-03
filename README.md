@@ -13,12 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   17 hrs 29 mins  █████████████▓░░░░░░░░░░░   54.33 %
-Prolog       4 hrs 42 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
-Python       3 hrs 32 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
-Solidity     2 hrs 8 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
-GraphQL      1 hr 42 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-JavaScript   41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+TypeScript   20 hrs 28 mins  ██████████████░░░░░░░░░░░   56.02 %
+Prolog       4 hrs 42 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 %
+Python       3 hrs 32 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
+GraphQL      2 hrs 31 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+Solidity     2 hrs 8 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
+JavaScript   1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
 ```
 
 <!--END_SECTION:waka-->
