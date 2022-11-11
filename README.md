@@ -46,10 +46,10 @@ Git Config   28 mins         ▓░░░░░░░░░░░░░░░░
 [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
 
-- 🔭 I’m currently working on Memboro
-- 🌱 I’m currently learning graph based database
-- 💬 Ask me about django
-- 😄 Pronouns: Anjaan
+- 🔭 I’m currently working in Web3
+- ⚡  Decentralizing the internet!
+- 🌱 I’m currently learning Rust
+- 💬 Ask me about Core Blockchain development
 
 <!--
 **anshulforyou/anshulforyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
