@@ -13,10 +13,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python            4 hrs 38 mins   ██████████████████████▓░░   90.87 %
-Protocol Buffer   24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
-Text              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Python            4 hrs 38 mins   ███████████████████████░░   91.77 %
+Protocol Buffer   24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
+Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
