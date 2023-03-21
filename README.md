@@ -13,8 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python            46 mins         ███████████████████████▓░   94.05 %
-Protocol Buffer   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
