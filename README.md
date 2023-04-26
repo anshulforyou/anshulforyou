@@ -13,9 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   5 mins          █████████████░░░░░░░░░░░░   51.89 %
-Go         4 mins          ███████████░░░░░░░░░░░░░░   43.83 %
-GraphQL    0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
