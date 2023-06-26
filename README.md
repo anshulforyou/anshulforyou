@@ -24,6 +24,9 @@ YAML         3 mins          ▓░░░░░░░░░░░░░░░░
 
 
 <div style="display:flex; align-items:center; justify-content: center;">
+<img src="https://img.shields.io/badge/go-lang%20-%2314354C.svg?&style=for-the-badge&logo=go-lang&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript%20-%2314354C.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/ethereum%20-%2314354C.svg?&style=for-the-badge&logo=ethereum&logoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
