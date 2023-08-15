@@ -13,11 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Solidity     5 hrs 30 mins   ██████████░░░░░░░░░░░░░░░   39.92 %
-Python       3 hrs 17 mins   ██████░░░░░░░░░░░░░░░░░░░   23.83 %
-TypeScript   2 hrs 33 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.55 %
-JavaScript   1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
-Go           33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+Solidity     6 hrs 30 mins   ███████████▒░░░░░░░░░░░░░   45.05 %
+TypeScript   3 hrs 26 mins   ██████░░░░░░░░░░░░░░░░░░░   23.85 %
+Python       1 hr 52 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
+JavaScript   1 hr 33 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
+Text         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 ```
 
 <!--END_SECTION:waka-->
