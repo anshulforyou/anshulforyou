@@ -48,10 +48,10 @@ TypeScript   14 mins         ▒░░░░░░░░░░░░░░░░
 [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
 
-- 🔭 I’m currently working in Web3
+- 🔭 I’m currently working in Web3 as DeFi Backend Engineer
 - ⚡  Decentralizing the internet!
 - 🌱 I’m currently learning Rust
-- 💬 Ask me about Core Blockchain development
+- 💬 Ask me about Core Blockchain development and DeFi
 
 <!--
 **anshulforyou/anshulforyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
