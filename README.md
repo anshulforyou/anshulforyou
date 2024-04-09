@@ -48,7 +48,7 @@ JSON         26 mins         █▓░░░░░░░░░░░░░░░
 [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
 
-- 🔭 I’m currently working in Web3 as DeFi Backend Engineer
+- 🔭 I’m CTO at @aarc-xyz
 - ⚡  Decentralizing the internet!
 - 🌱 I’m currently learning Rust
 - 💬 Ask me about Core Blockchain development and DeFi
