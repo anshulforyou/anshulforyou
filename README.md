@@ -13,7 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Solidity     43 mins         ███████████████████▒░░░░░   77.74 %
+TypeScript   10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.24 %
+Text         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
