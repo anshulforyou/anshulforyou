@@ -13,9 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Solidity     1 hr 48 mins    █████████████████████████   99.81 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Solidity   1 hr 24 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
