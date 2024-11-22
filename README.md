@@ -13,8 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Solidity   28 mins         ████████████████████████▓   98.25 %
-Bash       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Bash   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
