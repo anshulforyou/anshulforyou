@@ -13,7 +13,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Solidity   4 hrs 23 mins   █████████████████████████   100.00 %
+Solidity   2 hrs 28 mins   █████████████████████████   99.77 %
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
