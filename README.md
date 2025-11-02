@@ -13,7 +13,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Solidity   51 mins         █████████████████████████   100.00 %
+Solidity   6 hrs 32 mins   █████████████████████████   99.76 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
