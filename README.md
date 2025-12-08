@@ -13,11 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Docker     1 hr 22 mins    █████████▒░░░░░░░░░░░░░░░   37.42 %
-Bash       53 mins         ██████░░░░░░░░░░░░░░░░░░░   24.11 %
-Text       29 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
-Markdown   29 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 %
-Python     25 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
