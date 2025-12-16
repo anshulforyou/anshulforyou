@@ -13,8 +13,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Solidity   46 mins         ████████████████████░░░░░   80.25 %
-Markdown   11 mins         █████░░░░░░░░░░░░░░░░░░░░   19.75 %
+Solidity   2 hrs 17 mins   █████████████████████▓░░░   86.64 %
+Markdown   11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+TOML       9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
 ```
 
 <!--END_SECTION:waka-->
