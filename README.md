@@ -13,11 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         14 hrs 36 mins  ███████████░░░░░░░░░░░░░░   43.64 %
-Markdown     7 hrs 56 mins   ██████░░░░░░░░░░░░░░░░░░░   23.70 %
-Python       2 hrs 55 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
-Solidity     2 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
-Other        2 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+JSON         13 hrs 43 mins  █████████▒░░░░░░░░░░░░░░░   37.98 %
+Markdown     7 hrs 54 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
+TypeScript   4 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
+Python       2 hrs 55 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+Solidity     2 hrs 49 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
 ```
 
 <!--END_SECTION:waka-->
