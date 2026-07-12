@@ -32,6 +32,14 @@ Lately a lot of my curiosity has gone into AI, the parts that persist instead of
 
 ![Anshul's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=anshulforyou&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20activity)
 
+#### Weekly coding breakdown
+
+<!--START_SECTION:waka-->
+```txt
+Updating on the next scheduled run.
+```
+<!--END_SECTION:waka-->
+
 #### Reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshul-yadav-88174319b/)
