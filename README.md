@@ -1,68 +1,32 @@
-### Hi there, I'm Anshul 👋
-<!--
-<img alt="GIF" src="https://media.giphy.com/media/AYMKkDwavwA9Y72Frn/giphy.gif"/>
-![Anshul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anshulforyou&show_icons=true)
--->
-![](https://komarev.com/ghpvc/?username=anshulforyou&label=PROFILE+VIEWS&color=blue&style=plastic)
+### Hi, I'm Anshul 👋
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshulforyou&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+![](https://komarev.com/ghpvc/?username=anshulforyou&label=Profile+views&color=0e75b6&style=flat)
 
-![Anshul's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulforyou&layout=compact&show_icons=true)
+I build backends and I have spent years in blockchain. These days most of my attention is on AI, specifically the parts that do not reset every session: personas, long term memory, and platforms that reshape themselves around the person using them instead of pushing everyone down the same fixed flow.
 
+Before the AI rabbit hole I worked on core blockchain clients and DeFi protocols, wrote a fair amount of Solidity, and shipped production backends in Go and TypeScript. That foundation is still where I am strongest.
 
-<!--START_SECTION:waka-->
+**What I am into right now**
+- Giving software a memory that actually persists and changes how it behaves over time
+- Persona driven systems, where the same tool feels different depending on who it is for
+- Dynamic platforms that assemble themselves from context instead of hardcoded screens
+- Still close to blockchain: EVM internals, protocol design, and smart contracts
 
-```txt
-Markdown          32 hrs 58 mins        ███████████████░░░░░░░░░░   59.54 %
-Python            9 hrs 8 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
-Bash              6 hrs 9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
-JSON              2 hrs 48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-Other             1 hr 2 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-```
+**Ask me about** backend architecture, EVM and core client internals, DeFi mechanics, or how to give an agent a memory worth keeping.
 
-<!--END_SECTION:waka-->
+📫 anshul.epm.arbor@gmail.com
 
+<br/>
 
-<div style="display:flex; align-items:center; justify-content: center;">
-<img src="https://img.shields.io/badge/go-lang%20-%2314354C.svg?&style=for-the-badge&logo=go-lang&logoColor=white"/>
-<img src="https://img.shields.io/badge/typescript%20-%2314354C.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/ethereum%20-%2314354C.svg?&style=for-the-badge&logo=ethereum&logoColor=white"/>
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
-<img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
-<img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
-</div>
-
-[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
-
-- 🔭 I’m CTO at @aarc-xyz
-- ⚡  Decentralizing the internet!
-- 🌱 I’m currently learning Rust
-- 💬 Ask me about Core Blockchain development and DeFi
-
-<!--
-**anshulforyou/anshulforyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/solidity-%23363636.svg?&style=for-the-badge&logo=solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/ethereum-%233C3C3D.svg?&style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/aws-%23FF9900.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/gcp-%234285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
