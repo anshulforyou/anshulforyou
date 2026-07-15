@@ -2,9 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=anshulforyou&label=Profile+views&color=0e75b6&style=flat)
 
-I am a backend and blockchain engineer. Day to day I work across core client internals, DeFi protocols, and smart contracts, with years of production Go, TypeScript, and Solidity behind me.
+I am a tech enthusiast who loves building products that bring taste to the world.
 
-Lately a lot of my curiosity has gone into AI, the parts that persist instead of resetting every session: long term memory, persona driven systems, and platforms that reshape themselves around the person using them. The place where this overlaps with crypto is what pulls at me most, systems that are verifiable and context aware at the same time.
+Right now that means blockchain. I am the CTO of Aarc, where we work on real world assets and tokenization. Under the hood it is still the craft I have spent years on: core client internals, DeFi protocols, and smart contracts in Go, TypeScript, and Solidity.
+
+Side by side I am discovering the world of AI, and I want it from the core rather than the hype. The parts that persist instead of resetting every session pull at me most: long term memory, persona driven systems, and the overlap with crypto where things become verifiable and context aware at the same time.
 
 **Ask me about** EVM and core client internals, DeFi mechanics, backend architecture, or how to give an agent a memory worth keeping.
 
